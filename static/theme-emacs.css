@@ -215,7 +215,7 @@
     color: #ff9e7b !important; }
   .syntaxhighlighter .keyword {
     font-weight: bold !important;
-    color: aqua !important; }
+    color: #dd7700 !important; }
   .syntaxhighlighter .preprocessor {
     color: #aec4de !important; }
   .syntaxhighlighter .variable {
